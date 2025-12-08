@@ -28,11 +28,12 @@ Add your course schedule using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+
 ```
 <html>
     <body style="font-family: 'Times New Roman';">
 
-        
+        <!-- COLLEGE BANNER FROM PROVIDED URL -->
         <div style="text-align:center;">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcaRJf5gDrxVN9XNsyCs-KV5ddOaQcbzT2yg&s"
                  alt="College Banner"
@@ -62,18 +63,18 @@ Execute the program using runserver command.
                 <td bgcolor="cyan">Public Speaking</td>
                 <td bgcolor="cyan">Public Speaking</td>
                 <td bgcolor="cyan">Web Application</td>
-                <td bgcolor="cyan">-</td>
+                <td bgcolor="cyan">Free Slot</td>
                 <td bgcolor="cyan">Public Speaking</td>
-                <td bgcolor="cyan">-</td>
+                <td bgcolor="cyan">Free Slot</td>
             </tr>
 
             <tr>
                 <td bgcolor="yellow">10-12</td>
-                <td bgcolor="cyan">-</td>
+                <td bgcolor="cyan">Free Slot</td>
                 <td bgcolor="cyan">Web Application</td>
                 <td bgcolor="cyan">Public Speaking</td>
-                <td bgcolor="cyan">-</td>
-                <td bgcolor="cyan">-</td>
+                <td bgcolor="cyan">Free Slot</td>
+                <td bgcolor="cyan">Free Slot</td>
                 <td bgcolor="cyan">C Programming</td>
             </tr>
 
@@ -87,9 +88,9 @@ Execute the program using runserver command.
                 <td bgcolor="cyan">C Programming</td>
                 <td bgcolor="cyan">C Programming</td>
                 <td bgcolor="cyan">Mentor Meet</td>
-                <td bgcolor="cyan">-</td>
-                <td bgcolor="cyan">-</td>
-                <td bgcolor="cyan">-</td>
+                <td bgcolor="cyan">Free Slot</td>
+                <td bgcolor="cyan">Free Slot</td>
+                <td bgcolor="cyan">Free Slot</td>
             </tr>
 
             <tr>
@@ -98,7 +99,7 @@ Execute the program using runserver command.
                 <td bgcolor="cyan">Web Application</td>
                 <td bgcolor="cyan">Web Application</td>
                 <td bgcolor="cyan">C Programming</td>
-                <td bgcolor="cyan">-</td>
+                <td bgcolor="cyan">Free Slot</td>
                 <td bgcolor="cyan">C Programming</td>
             </tr>
         </table>
@@ -142,7 +143,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-<img width="1416" height="856" alt="image" src="https://github.com/user-attachments/assets/279a4b87-f6b1-4ae0-bf60-8b9b7f7dcee4" />
+<img width="1459" height="791" alt="image" src="https://github.com/user-attachments/assets/05566110-89ee-4bc0-aa57-1b1ffc72f770" />
+
 
 
 ## RESULT
